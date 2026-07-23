@@ -1,5 +1,6 @@
-flask
+fastapi
+uvicorn
+pydantic-settings
 python-dotenv
 openai
-aiohttp
 requests
